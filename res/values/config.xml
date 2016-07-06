@@ -106,4 +106,12 @@
     <!-- Name of a subclass of com.android.launcher3.BuildInfo used to
          get build information. Can be empty. -->
     <string name="build_info_class" translatable="false"></string>
+    
+    
+<!-- WallpaperPicker begin -->
+    <!-- Specifies whether to expand the cropped area on both sides (rather
+         than just to one side) -->
+    <bool name="center_crop">false</bool>
+<!-- WallpaperPicker end -->
+
 </resources>

@@ -121,4 +121,22 @@
     <string name="abandoned_search" msgid="891119232568284442">"Search"</string>
     <string name="abandoned_promises_title" msgid="7096178467971716750">"This app is not installed"</string>
     <string name="abandoned_promise_explanation" msgid="3990027586878167529">"The app for this icon isn\'t installed. You can remove it, or search for the app and install it manually."</string>
+
+
+<!-- WallpaperPicker begin -->
+    <string name="wallpaper_instructions" msgid="3524143401182707094">"Set wallpaper"</string>
+    <string name="image_load_fail" msgid="7538534580694411837">"Couldn\'t load image"</string>
+    <string name="wallpaper_load_fail" msgid="4800700444605404650">"Couldn\'t load image as wallpaper"</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="zero" msgid="9015111147509924344">"%1$d selected"</item>
+    <item quantity="one" msgid="8409622005831789373">"%1$d selected"</item>
+    <item quantity="other" msgid="479468347731745357">"%1$d selected"</item>
+  </plurals>
+    <string name="wallpaper_accessibility_name" msgid="4093221025304876354">"Wallpaper %1$d of %2$d"</string>
+    <string name="announce_selection" msgid="123723511662250539">"Selected <xliff:g id="LABEL">%1$s</xliff:g>"</string>
+    <string name="wallpaper_delete" msgid="1459353972739215344">"Delete"</string>
+    <string name="pick_image" msgid="6704438906027442697">"Pick image"</string>
+    <string name="pick_wallpaper" msgid="4628969645948454559">"Wallpapers"</string>
+    <string name="crop_wallpaper" msgid="4882870800623585836">"Crop wallpaper"</string>
+<!-- WallpaperPicker end -->
 </resources>

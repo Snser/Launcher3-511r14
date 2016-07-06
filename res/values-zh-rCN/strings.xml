@@ -121,4 +121,22 @@
     <string name="abandoned_search" msgid="891119232568284442">"搜索"</string>
     <string name="abandoned_promises_title" msgid="7096178467971716750">"未安装此应用"</string>
     <string name="abandoned_promise_explanation" msgid="3990027586878167529">"未安装此图标对应的应用。您可以移除此图标，也可以尝试搜索相应的应用并手动安装。"</string>
+
+
+<!-- WallpaperPicker begin -->
+    <string name="wallpaper_instructions" msgid="3524143401182707094">"设置壁纸"</string>
+    <string name="image_load_fail" msgid="7538534580694411837">"无法加载图片"</string>
+    <string name="wallpaper_load_fail" msgid="4800700444605404650">"无法加载要设为壁纸的图片"</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="zero" msgid="9015111147509924344">"已选择%1$d项"</item>
+    <item quantity="one" msgid="8409622005831789373">"已选择%1$d项"</item>
+    <item quantity="other" msgid="479468347731745357">"已选择%1$d项"</item>
+  </plurals>
+    <string name="wallpaper_accessibility_name" msgid="4093221025304876354">"第%1$d张壁纸，共%2$d张"</string>
+    <string name="announce_selection" msgid="123723511662250539">"已选择<xliff:g id="LABEL">%1$s</xliff:g>"</string>
+    <string name="wallpaper_delete" msgid="1459353972739215344">"删除"</string>
+    <string name="pick_image" msgid="6704438906027442697">"选择图片"</string>
+    <string name="pick_wallpaper" msgid="4628969645948454559">"壁纸"</string>
+    <string name="crop_wallpaper" msgid="4882870800623585836">"剪裁壁纸"</string>
+<!-- WallpaperPicker end -->
 </resources>
